@@ -1,5 +1,5 @@
 # ror
 
-This is a practiced application for Ruby on Rails.
+Ruby on Rails Practice Application
 
 ---
